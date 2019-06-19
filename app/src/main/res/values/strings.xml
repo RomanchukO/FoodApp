@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">FoodDeliveryApp</string>
+    <string name="button">Button</string>
+</resources>
